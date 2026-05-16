@@ -2,21 +2,29 @@
   <img src="./assets/banner.jpg" width="100%" />
 </p>
 
-<h1 align="center">
-STACK BY ANSH
-</h1>
+<br/>
+
+<h1 align="center">Ansh Gupta</h1>
 
 <h3 align="center">
-Building startup-grade digital systems independently.
+Building startup-grade digital products independently.
 </h3>
 
 <p align="center">
 AI Systems • Product Engineering • Experimental Interfaces • Startup Infrastructure
 </p>
 
+<br/>
+
+<p align="center">
+  <a href="https://ansh-gupta-porfolio.vercel.app/">Portfolio</a>
+  ·
+  <a href="https://github.com/AnshGupta-77">GitHub</a>
+</p>
+
 ---
 
-# OPERATIONS
+# ECOSYSTEM
 
 <table>
 <tr>
@@ -24,7 +32,7 @@ AI Systems • Product Engineering • Experimental Interfaces • Startup Infra
 
 ## OPERANIX
 
-AI-powered operational ecosystem for workflow orchestration, intelligent productivity, execution systems, and scalable founder infrastructure.
+AI-native operational infrastructure focused on intelligent execution, workflow orchestration, productivity systems, and scalable founder operations.
 
 <p align="center">
   <img src="./assets/operanix.png" width="90%" />
@@ -34,12 +42,12 @@ AI-powered operational ecosystem for workflow orchestration, intelligent product
 
 <td width="50%">
 
-## BIKETRIBE
+## ARCHITECT AI
 
-A futuristic biker ecosystem merging machine culture, community infrastructure, immersive UI, and performance-driven experiences.
+Adaptive AI-powered study ecosystem designed for IIT-JEE & NEET aspirants with planning intelligence and personalized workflows.
 
 <p align="center">
-  <img src="./assets/biketribe.png" width="90%" />
+  <img src="./assets/architect-ai.png" width="90%" />
 </p>
 
 </td>
@@ -48,12 +56,12 @@ A futuristic biker ecosystem merging machine culture, community infrastructure, 
 <tr>
 <td width="50%">
 
-## ARCHITECT AI
+## BIKETRIBE
 
-AI-powered adaptive study ecosystem designed for IIT-JEE & NEET aspirants with planning intelligence and personalized systems.
+A futuristic biker ecosystem merging machine culture, immersive UI systems, and community-driven digital experiences.
 
 <p align="center">
-  <img src="./assets/architect-ai.png" width="90%" />
+  <img src="./assets/biketribe.png" width="90%" />
 </p>
 
 </td>
@@ -62,9 +70,10 @@ AI-powered adaptive study ecosystem designed for IIT-JEE & NEET aspirants with p
 
 ## OOZE
 
-Experimental fashion-tech storefront focused on cinematic interactions, immersive interfaces, and premium digital experiences.
+Experimental fashion-tech storefront focused on cinematic interfaces, immersive interactions, and premium shopping experiences.
 
-🔗 https://ooze-theattirestore.vercel.app/
+### Live
+https://ooze-theattirestore.vercel.app/
 
 </td>
 </tr>
@@ -78,24 +87,14 @@ Experimental fashion-tech storefront focused on cinematic interactions, immersiv
   <img src="./assets/stack-logo.jpg" width="220px"/>
 </p>
 
-<h3 align="center">
-SYSTEMS • INFRASTRUCTURE • INTELLIGENCE
-</h3>
-
 <p align="center">
 Designing products that feel engineered — not assembled.
 </p>
 
----
-
-# AI CORE
+<br/>
 
 <p align="center">
   <img src="./assets/Gemini_Generated_Imag...9gu.png" width="70%" />
-</p>
-
-<p align="center">
-Independent AI infrastructure experiments focused on scalable automation, intelligent systems, and next-generation product ecosystems.
 </p>
 
 ---
@@ -105,23 +104,23 @@ Independent AI infrastructure experiments focused on scalable automation, intell
 ```yaml
 Building:
   - AI Operating Systems
-  - Startup Infrastructure
   - Experimental Interfaces
+  - Startup Infrastructure
   - Founder-grade SaaS Products
 
 Exploring:
   - Agentic AI
-  - System Design
-  - AI Workflow Automation
   - Product Architecture
+  - Workflow Intelligence
+  - System Design
 
 Mission:
-  - Build independent digital empires
+  - Build scalable digital ecosystems
 ```
 
 ---
 
-# TECH STACK
+# TECHNOLOGY STACK
 
 <p align="center">
 
@@ -136,17 +135,11 @@ Mission:
 ## OPERANIX
 
 ### Core Infrastructure
-- AI-assisted workflow systems
-- Intelligent task orchestration
-- Smart project execution
+- Intelligent workflow orchestration
+- AI-assisted execution systems
 - Personalized productivity engines
-- Founder operating ecosystem
-
-### Future Expansion
-- Autonomous AI operations
-- Predictive workflow intelligence
-- AI employee systems
-- Execution analytics engine
+- Smart operational management
+- Scalable founder ecosystem
 
 ---
 
@@ -160,49 +153,32 @@ Mission:
 - Experimental Interaction Design
 
 ### Focus
-Building emotionally immersive digital commerce experiences.
+Creating emotionally immersive digital commerce experiences.
 
 ---
 
 ## ARCHITECT AI
 
 ### Vision
-Transforming exam preparation into a structured AI-guided system with adaptive planning and intelligent progress management.
+Transforming exam preparation into a structured AI-guided system with adaptive planning and intelligent performance management.
 
 ### Planned Features
 - AI study planner
-- Dynamic schedules
+- Dynamic scheduling
 - Personalized revision systems
 - Performance analytics
 - Adaptive preparation workflows
 
 ---
 
-# BUILD WORLDS
-
-Creating systems that blend:
-
-- Artificial Intelligence
-- Product Engineering
-- Infrastructure Design
-- Human Interaction
-- Startup Execution
-
-The objective is not just to build projects.
-
-The objective is to build digital ecosystems.
-
----
-
 # PHILOSOPHY
 
-> Software should feel cinematic.
+> Building systems that feel engineered —
+> not assembled.
 >
-> Interfaces should create emotion.
+> Designing digital ecosystems instead of isolated apps.
 >
-> Systems should scale like empires.
->
-> Products should feel alive.
+> Creating interfaces that combine functionality with emotion.
 
 ---
 
@@ -222,22 +198,14 @@ The objective is to build digital ecosystems.
 
 <p align="center">
 
-<a href="https://github.com/AnshGupta-77">
-GitHub
-</a>
+<a href="https://ansh-gupta-porfolio.vercel.app/">Portfolio</a>
 •
-<a href="https://ansh-gupta-porfolio.vercel.app/">
-Portfolio
-</a>
+<a href="https://github.com/AnshGupta-77">GitHub</a>
 
 </p>
 
 ---
 
 <p align="center">
-Built by Ansh Gupta
-</p>
-
-<p align="center">
-Stack By ANSH
+Built and designed by Ansh Gupta
 </p>
