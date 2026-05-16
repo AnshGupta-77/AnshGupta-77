@@ -1,419 +1,191 @@
-````md
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.jpg" width="100%" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D0906,35:1A120F,70:D65BFF,100:FF4E75&text=ANSH%20GUPTA&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=BUILDING%20EXECUTION%20SYSTEMS%20•%20AI%20WORKSPACES%20•%20DIGITAL%20INFRASTRUCTURES&descAlignY=58&animation=fadeIn"/>
+<h1 align="center">ANSH GUPTA</h1>
 
-<br/>
+<h3 align="center">
+Building startup-grade digital products independently.
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2500&pause=1000&color=D65BFF&center=true&vCenter=true&width=900&lines=Execution+Operating+Systems;AI-Assisted+Infrastructure;Realtime+Architectures;Immersive+Digital+Experiences;Building+Product+Ecosystems"/>
-
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPMENT-111111?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/FOCUS-EXECUTION%20INTELLIGENCE-D65BFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MODE-BUILDING-FF4E75?style=for-the-badge"/>
-
-</div>
+<p align="center">
+AI Systems • SaaS Platforms • Interactive Experiences • Product Engineering
+</p>
 
 ---
 
-#  SYSTEM OVERVIEW
+# STACK ECOSYSTEM
 
-```txt
-> Builder focused on operational systems,
-> intelligent workflows,
-> realtime infrastructures,
-> and immersive product ecosystems.
+I design and build complete digital systems —
+from AI-powered platforms to immersive frontend experiences.
 
-> Interested in:
-  - execution intelligence
-  - AI orchestration
-  - scalable backend systems
-  - cinematic frontend experiences
-  - adaptive product architectures
-````
+Current focus:
+- AI productivity systems
+- scalable SaaS platforms
+- intelligent workflow automation
+- interactive UI/UX systems
+- startup-grade web architecture
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="./assets/stack-logo.jpg" width="240" />
+</p>
 
-# ACTIVE SYSTEMS
+---
 
-</div>
+# CURRENT PRODUCTS
 
-<table>
-<tr>
-<td width="50%">
+## OPERANIX
 
-## OPERONIX
+<p align="left">
+  <img src="./assets/operanix.png" width="420" />
+</p>
 
-```txt
-AI-Assisted Execution Operating System
-```
+AI-powered productivity and operational ecosystem focused on:
+- task intelligence
+- workflow optimization
+- AI-assisted execution
+- personal operating systems
 
-### SYSTEM TYPE
+STATUS:
+Actively evolving into a full productivity infrastructure.
 
-Execution Infrastructure
-
-### STATUS
-
-`ACTIVE DEVELOPMENT`
-
-### CORE DOMAINS
-
-* execution orchestration
-* planner intelligence
-* analytics systems
-* AI workflows
-* lead generation
-* operational memory
-
-### STACK
-
-```txt
-Next.js
-FastAPI
-PostgreSQL
-Redis
-Supabase
-Telegram Bots
-Ollama
-```
-
-</td>
-
-<td width="50%">
-
-## ARCHITECT AI
-
-```txt
-Structured Project Intelligence Workspace
-```
-
-### SYSTEM TYPE
-
-AI Strategic Planning System
-
-### STATUS
-
-`ALPHA`
-
-### CORE DOMAINS
-
-* adaptive planning
-* architecture reasoning
-* execution roadmaps
-* project cognition
-* dependency intelligence
-
-### STACK
-
-```txt
-Next.js
-FastAPI
-AI Orchestration
-Structured Memory
-Streaming Systems
-```
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## BIKETRIBE
-
-```txt
-Realtime Motorcycle Ecosystem Platform
-```
-
-### SYSTEM TYPE
-
-Community Infrastructure
-
-### STATUS
-
-`PRE-LAUNCH`
-
-### CORE DOMAINS
-
-* realtime communication
-* GPS infrastructure
-* touring systems
-* rider safety
-* biker communities
-
-### STACK
-
-```txt
-React Native
-Expo
-FastAPI
-PostgreSQL
-Redis
-WebSockets
-```
-
-</td>
-
-<td width="50%">
+---
 
 ## OOZE
 
-```txt
-Experimental Digital Fashion Universe
-```
+Fashion + immersive digital branding experiment.
 
-### SYSTEM TYPE
-
-Immersive Commerce Experience
-
-### STATUS
-
-`ACTIVE DESIGN EVOLUTION`
-
-### CORE DOMAINS
-
-* cinematic UI
-* motion-heavy frontend
-* editorial experiences
-* futuristic streetwear
-* immersive interactions
-
-### LIVE
-
-```txt
+LIVE:
 https://ooze-theattirestore.vercel.app/
-```
 
-### STACK
-
-```txt
-Next.js
-Tailwind
-Framer Motion
-GSAP
-Three.js (planned)
-```
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## SEVA AGRO
-
-```txt
-Industrial Manufacturing Platform
-```
-
-### SYSTEM TYPE
-
-Production Business Infrastructure
-
-### STATUS
-
-`CLIENT DELIVERY`
-
-### CORE DOMAINS
-
-* B2B systems
-* inquiry infrastructure
-* admin operations
-* lead generation
-* scalable architecture
-
-### STACK
-
-```txt
-Next.js
-Django
-PostgreSQL
-Cloudinary
-```
-
-</td>
-
-<td width="50%">
-
-## MORE SYSTEMS
-
-```txt
-Additional experimental systems
-currently under development.
-```
-
-### CURRENT RESEARCH
-
-* AI memory systems
-* execution analytics
-* realtime orchestration
-* adaptive planning layers
-* immersive interfaces
-
-### UPCOMING
-
-```txt
-FreelanceFlow
-Advanced AI Infrastructure
-Experimental UI Systems
-Realtime Collaboration Layers
-```
-
-</td>
-</tr>
-</table>
+Focus areas:
+- cinematic UI
+- immersive storefront experiences
+- advanced animations
+- visual storytelling
 
 ---
 
-<div align="center">
+## ARCHITECT AI
 
-# BUILD LOGS
+<p align="left">
+  <img src="./assets/architect-ai.png" width="220" />
+</p>
 
-</div>
+AI-powered study planning platform for IIT-JEE and NEET students.
 
-```txt
-[ OPERONIX ]
-> Expanding execution intelligence engine
-> Building adaptive planner systems
-> Designing workflow orchestration layers
-
-[ ARCHITECT AI ]
-> Improving semantic reasoning systems
-> Expanding dependency intelligence
-> Building strategic advisory layers
-
-[ OOZE ]
-> Rebuilding immersive storefront experience
-> Designing cinematic motion systems
-> Experimenting with shader interactions
-
-[ BIKETRIBE ]
-> Expanding realtime GPS infrastructure
-> Scaling ride communication systems
-> Optimizing websocket architecture
-```
+Core systems:
+- adaptive study planning
+- AI schedule generation
+- productivity tracking
+- intelligent performance analysis
 
 ---
 
-<div align="center">
+## BIKETRIBE
 
-# SYSTEM DOMAINS
+<p align="left">
+  <img src="./assets/biketribe.png" width="220" />
+</p>
 
-</div>
+Motorcycle community + platform ecosystem.
 
-<div align="center">
-
-| DOMAIN                  | FOCUS                                         |
-| ----------------------- | --------------------------------------------- |
-| AI WORKFLOW SYSTEMS     | Intelligent execution layers                  |
-| REALTIME INFRASTRUCTURE | WebSockets • synchronization • live systems   |
-| EXECUTION INTELLIGENCE  | planning • analytics • optimization           |
-| MOTION FRONTENDS        | immersive interfaces • cinematic interactions |
-| BACKEND ARCHITECTURE    | scalable APIs • operational systems           |
-| PRODUCT SYSTEM DESIGN   | adaptive workflows • ecosystem thinking       |
-
-</div>
+Focused on:
+- rider networking
+- interactive community systems
+- event infrastructure
+- automotive digital experiences
 
 ---
 
-<div align="center">
+# ENGINEERING PHILOSOPHY
 
-# TECHNOLOGY LAYERS
+I don't just build websites.
 
-</div>
+I build:
+- systems
+- experiences
+- scalable architectures
+- digital products with identity
 
-<div align="center">
+My work combines:
+- engineering
+- product thinking
+- cinematic design
+- AI infrastructure
+- startup execution
+
+---
+
+# TECH STACK
 
 ### FRONTEND
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs"/>
+- Next.js
+- React
+- TailwindCSS
+- Framer Motion
+- GSAP
 
 ### BACKEND
+- Django
+- FastAPI
+- Node.js
+- Express
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis"/>
+### AI / ML
+- Python
+- TensorFlow
+- Scikit-learn
+- OpenAI APIs
+- AI Workflow Systems
 
-### INFRASTRUCTURE
+### DATABASES
+- PostgreSQL
+- MongoDB
+- Firebase
 
-<img src="https://skillicons.dev/icons?i=docker,supabase,vercel,cloudflare,git"/>
-
-### AI + SYSTEMS
-
-<img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Claude-D65BFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-FF4E75?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Qdrant-111111?style=for-the-badge"/>
-
-</div>
+### DEPLOYMENT
+- Vercel
+- Railway
+- Render
+- Docker
 
 ---
-
-<div align="center">
 
 # CURRENT FOCUS
 
-</div>
-
-```txt
-Designing systems that:
-- reduce execution friction,
-- evolve through context,
-- adapt intelligently,
-- and scale operational complexity.
-
-Moving toward:
-execution operating systems,
-adaptive AI workflows,
-realtime ecosystems,
-and immersive digital infrastructures.
-```
+- AI operating systems
+- intelligent productivity infrastructure
+- startup SaaS ecosystems
+- immersive frontend engineering
+- scalable full-stack architecture
 
 ---
 
-<div align="center">
+# GITHUB STATS
 
-# NETWORK
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnshGupta-77&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<a href="https://github.com/AnshGupta-77">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/PORTFOLIO-D65BFF?style=for-the-badge"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/LINKEDIN-FF4E75?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/RESUME-111111?style=for-the-badge"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshGupta-77&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-<div align="center">
+# CONNECT
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnshGupta-77&show_icons=true&hide_border=true&bg_color=0D0906&title_color=D65BFF&text_color=ffffff&icon_color=FF4E75"/>
+PORTFOLIO:
+https://ansh-gupta-porfolio.vercel.app/
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AnshGupta-77&hide_border=true&background=0D0906&ring=D65BFF&fire=FF4E75&currStreakLabel=ffffff"/>
-
-</div>
+GITHUB:
+https://github.com/AnshGupta-77
 
 ---
 
-<div align="center">
-
-```txt
-BUILDING SYSTEMS PEOPLE OPERATE INSIDE.
-```
-
-</div>
-```
+<p align="center">
+  <b>STACK by ansh</b>
+</p>
