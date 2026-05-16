@@ -2,190 +2,242 @@
   <img src="./assets/banner.jpg" width="100%" />
 </p>
 
-<h1 align="center">ANSH GUPTA</h1>
+<h1 align="center">
+WHITE COLLAR MAFIA
+</h1>
 
 <h3 align="center">
-Building startup-grade digital products independently.
+Building startup-grade digital systems independently.
 </h3>
 
 <p align="center">
-AI Systems • SaaS Platforms • Interactive Experiences • Product Engineering
+AI Systems • Product Engineering • Experimental Interfaces • Startup Infrastructure
 </p>
 
 ---
 
-# STACK ECOSYSTEM
+# OPERATIONS
 
-I design and build complete digital systems —
-from AI-powered platforms to immersive frontend experiences.
-
-Current focus:
-- AI productivity systems
-- scalable SaaS platforms
-- intelligent workflow automation
-- interactive UI/UX systems
-- startup-grade web architecture
-
----
-
-<p align="center">
-  <img src="./assets/stack-logo.jpg" width="240" />
-</p>
-
----
-
-# CURRENT PRODUCTS
+<table>
+<tr>
+<td width="50%">
 
 ## OPERANIX
 
-<p align="left">
-  <img src="./assets/operanix.png" width="420" />
+AI-powered operational ecosystem for workflow orchestration, intelligent productivity, execution systems, and scalable founder infrastructure.
+
+<p align="center">
+  <img src="./assets/operanix.png" width="90%" />
 </p>
 
-AI-powered productivity and operational ecosystem focused on:
-- task intelligence
-- workflow optimization
-- AI-assisted execution
-- personal operating systems
+</td>
 
-STATUS:
-Actively evolving into a full productivity infrastructure.
-
----
-
-## OOZE
-
-Fashion + immersive digital branding experiment.
-
-LIVE:
-https://ooze-theattirestore.vercel.app/
-
-Focus areas:
-- cinematic UI
-- immersive storefront experiences
-- advanced animations
-- visual storytelling
-
----
-
-## ARCHITECT AI
-
-<p align="left">
-  <img src="./assets/architect-ai.png" width="220" />
-</p>
-
-AI-powered study planning platform for IIT-JEE and NEET students.
-
-Core systems:
-- adaptive study planning
-- AI schedule generation
-- productivity tracking
-- intelligent performance analysis
-
----
+<td width="50%">
 
 ## BIKETRIBE
 
-<p align="left">
-  <img src="./assets/biketribe.png" width="220" />
+A futuristic biker ecosystem merging machine culture, community infrastructure, immersive UI, and performance-driven experiences.
+
+<p align="center">
+  <img src="./assets/biketribe.png" width="90%" />
 </p>
 
-Motorcycle community + platform ecosystem.
+</td>
+</tr>
 
-Focused on:
-- rider networking
-- interactive community systems
-- event infrastructure
-- automotive digital experiences
+<tr>
+<td width="50%">
+
+## ARCHITECT AI
+
+AI-powered adaptive study ecosystem designed for IIT-JEE & NEET aspirants with planning intelligence and personalized systems.
+
+<p align="center">
+  <img src="./assets/architect-ai.png" width="90%" />
+</p>
+
+</td>
+
+<td width="50%">
+
+## OOZE
+
+Experimental fashion-tech storefront focused on cinematic interactions, immersive interfaces, and premium digital experiences.
+
+🔗 https://ooze-theattirestore.vercel.app/
+
+</td>
+</tr>
+</table>
 
 ---
 
-# ENGINEERING PHILOSOPHY
+# VISUAL SYSTEMS
 
-I don't just build websites.
+<p align="center">
+  <img src="./assets/stack-logo.jpg" width="220px"/>
+</p>
 
-I build:
-- systems
-- experiences
-- scalable architectures
-- digital products with identity
+<h3 align="center">
+SYSTEMS • INFRASTRUCTURE • INTELLIGENCE
+</h3>
 
-My work combines:
-- engineering
-- product thinking
-- cinematic design
-- AI infrastructure
-- startup execution
+<p align="center">
+Designing products that feel engineered — not assembled.
+</p>
 
 ---
 
-# TECH STACK
+# AI CORE
 
-### FRONTEND
-- Next.js
-- React
-- TailwindCSS
-- Framer Motion
-- GSAP
+<p align="center">
+  <img src="./assets/Gemini_Generated_Imag...9gu.png" width="70%" />
+</p>
 
-### BACKEND
-- Django
-- FastAPI
-- Node.js
-- Express
-
-### AI / ML
-- Python
-- TensorFlow
-- Scikit-learn
-- OpenAI APIs
-- AI Workflow Systems
-
-### DATABASES
-- PostgreSQL
-- MongoDB
-- Firebase
-
-### DEPLOYMENT
-- Vercel
-- Railway
-- Render
-- Docker
+<p align="center">
+Independent AI infrastructure experiments focused on scalable automation, intelligent systems, and next-generation product ecosystems.
+</p>
 
 ---
 
 # CURRENT FOCUS
 
-- AI operating systems
-- intelligent productivity infrastructure
-- startup SaaS ecosystems
-- immersive frontend engineering
-- scalable full-stack architecture
+```yaml
+Building:
+  - AI Operating Systems
+  - Startup Infrastructure
+  - Experimental Interfaces
+  - Founder-grade SaaS Products
+
+Exploring:
+  - Agentic AI
+  - System Design
+  - AI Workflow Automation
+  - Product Architecture
+
+Mission:
+  - Build independent digital empires
+```
 
 ---
 
-# GITHUB STATS
+# TECH STACK
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshGupta-77&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,python,django,postgres,mongodb,tailwind,threejs,firebase,git,github,vscode,figma,vercel,linux" />
+
 </p>
 
+---
+
+# FEATURED SYSTEMS
+
+## OPERANIX
+
+### Core Infrastructure
+- AI-assisted workflow systems
+- Intelligent task orchestration
+- Smart project execution
+- Personalized productivity engines
+- Founder operating ecosystem
+
+### Future Expansion
+- Autonomous AI operations
+- Predictive workflow intelligence
+- AI employee systems
+- Execution analytics engine
+
+---
+
+## OOZE
+
+### Built With
+- Next.js
+- TailwindCSS
+- Framer Motion
+- Cinematic UI Systems
+- Experimental Interaction Design
+
+### Focus
+Building emotionally immersive digital commerce experiences.
+
+---
+
+## ARCHITECT AI
+
+### Vision
+Transforming exam preparation into a structured AI-guided system with adaptive planning and intelligent progress management.
+
+### Planned Features
+- AI study planner
+- Dynamic schedules
+- Personalized revision systems
+- Performance analytics
+- Adaptive preparation workflows
+
+---
+
+# BUILD WORLDS
+
+Creating systems that blend:
+
+- Artificial Intelligence
+- Product Engineering
+- Infrastructure Design
+- Human Interaction
+- Startup Execution
+
+The objective is not just to build projects.
+
+The objective is to build digital ecosystems.
+
+---
+
+# PHILOSOPHY
+
+> Software should feel cinematic.
+>
+> Interfaces should create emotion.
+>
+> Systems should scale like empires.
+>
+> Products should feel alive.
+
+---
+
+# GITHUB ANALYTICS
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshGupta-77&theme=tokyonight&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnshGupta-77&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshGupta-77&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
 # CONNECT
 
-PORTFOLIO:
-https://ansh-gupta-porfolio.vercel.app/
+<p align="center">
 
-GITHUB:
-https://github.com/AnshGupta-77
+<a href="https://github.com/AnshGupta-77">
+GitHub
+</a>
+•
+<a href="https://ansh-gupta-porfolio.vercel.app/">
+Portfolio
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  <b>STACK by ansh</b>
+Built by Ansh Gupta
+</p>
+
+<p align="center">
+Stack By ANSH
 </p>
