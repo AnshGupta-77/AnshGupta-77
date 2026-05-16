@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-WHITE COLLAR MAFIA
+STACK BY ANSH
 </h1>
 
 <h3 align="center">
