@@ -1,223 +1,180 @@
-# Ansh Gupta
+````md
+# ANSH GUPTA
 
-Building execution systems, AI workspaces, immersive digital experiences, and scalable backend infrastructures.
-
-Focused on:
-- AI-assisted systems
-- execution intelligence
-- realtime infrastructure
-- full-stack product architecture
-- scalable backend engineering
-- immersive frontend experiences
+```txt
+Building execution systems,
+AI workspaces,
+immersive digital experiences,
+and scalable operational infrastructures.
+````
 
 ---
 
-## Current Projects
-
-### Operonix
-AI-assisted execution operating system for developers, founders, freelancers, and ambitious builders.
-
-Combines:
-- project execution
-- AI workflow orchestration
-- daily planning
-- analytics
-- lead generation
-- CRM systems
-- execution intelligence
-
-Tech:
-Next.js • FastAPI • PostgreSQL • Redis • Supabase • Telegram Bots • Ollama
+```txt
+STATUS : BUILDING
+FOCUS  : EXECUTION INTELLIGENCE + PRODUCT SYSTEMS
+MODE   : ACTIVE DEVELOPMENT
+```
 
 ---
 
-### Architect AI
-Structured project intelligence workspace that transforms raw ideas into executable systems.
+┌──────────────────────────────┐
+│        ACTIVE SYSTEMS        │
+└──────────────────────────────┘
 
-Focused on:
-- adaptive project discovery
-- intelligent planning
-- architecture reasoning
-- business strategy generation
-- iterative execution systems
+### OPERONIX
 
-Tech:
-Next.js • FastAPI • AI orchestration • structured memory systems
+AI-assisted execution operating system for builders and founders.
+
+STATUS:
+`ACTIVE DEVELOPMENT`
+
+FOCUS:
+
+* execution orchestration
+* planning systems
+* AI workflow intelligence
+* analytics infrastructure
 
 ---
 
-### BikeTribe
-Realtime biker ecosystem platform powering motorcycle communities, touring systems, rider networking, and safety infrastructure.
+### ARCHITECT AI
 
-Includes:
-- live ride systems
-- gang/community infrastructure
-- realtime communication
-- GPS systems
-- safety layers
-- admin operations
+Strategic project intelligence workspace.
 
-Tech:
-React Native • Expo • FastAPI • PostgreSQL • Redis • WebSockets
+STATUS:
+`ALPHA`
+
+FOCUS:
+
+* adaptive planning
+* architecture reasoning
+* intelligent project cognition
+* execution roadmaps
+
+---
+
+### BIKETRIBE
+
+Realtime ecosystem for biker communities and touring systems.
+
+STATUS:
+`PRE-LAUNCH`
+
+FOCUS:
+
+* realtime communication
+* GPS systems
+* ride infrastructure
+* rider safety
 
 ---
 
 ### OOZE
-Experimental digital fashion experience blending cinematic UI with futuristic streetwear presentation.
 
-Focused on:
-- immersive motion systems
-- editorial layouts
-- luxury streetwear identity
-- interactive product experiences
-- experimental frontend design
+Experimental digital fashion universe.
 
-Tech:
-Next.js • Tailwind • Framer Motion • GSAP • Three.js (planned)
+STATUS:
+`ACTIVE DESIGN EVOLUTION`
 
-Live:
+LIVE:
 https://ooze-theattirestore.vercel.app/
 
----
+FOCUS:
 
-### Seva Agro
-Production-grade manufacturing website and lead-generation platform for agricultural machinery businesses.
-
-Built for:
-- industrial product showcasing
-- inquiry systems
-- dealer acquisition
-- admin management
-- SEO-focused business presence
-
-Tech:
-Next.js • Django • PostgreSQL • Cloudinary
+* cinematic UI
+* immersive motion
+* futuristic streetwear presentation
+* editorial experiences
 
 ---
 
-## Engineering Areas
+### SEVA AGRO
 
-- Full-stack architecture
-- AI workflow systems
-- Execution intelligence
-- FastAPI backend engineering
-- Next.js applications
-- Realtime systems
-- PostgreSQL + Redis infrastructure
-- AI memory systems
-- Product system design
-- Motion-heavy UI/UX
-- Scalable API systems
-- Admin infrastructure
-- WebSocket architectures
+Industrial manufacturing and lead-generation platform.
+
+STATUS:
+`CLIENT DELIVERY`
+
+FOCUS:
+
+* production infrastructure
+* admin systems
+* B2B workflows
+* scalable frontend/backend architecture
 
 ---
 
-## Stack
+┌──────────────────────────────┐
+│         BUILD LOGS           │
+└──────────────────────────────┘
 
-### Frontend
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- Framer Motion
-- Zustand
-- React Query
+```txt
+[+] OPERONIX
+    → Designing execution intelligence engine
+    → Building planner orchestration systems
 
-### Backend
-- FastAPI
-- Django
-- PostgreSQL
-- Redis
-- SQLAlchemy
-- Supabase
+[+] ARCHITECT AI
+    → Improving semantic reasoning architecture
+    → Expanding dependency intelligence layer
 
-### AI
-- OpenAI
-- Claude
-- Ollama
-- Qdrant
+[+] OOZE
+    → Rebuilding immersive product interactions
+    → Designing cinematic motion systems
 
-### Infrastructure
-- Docker
-- Railway
-- Vercel
-- Supabase
-- Cloudinary
+[+] BIKETRIBE
+    → Expanding realtime GPS infrastructure
+```
 
 ---
 
-## Philosophy
+┌──────────────────────────────┐
+│        SYSTEM DOMAINS        │
+└──────────────────────────────┘
 
-I’m interested in building systems that:
-- reduce execution friction,
-- evolve with context,
-- feel immersive,
-- and solve operational complexity at scale.
-
-I care deeply about:
-- product thinking,
-- execution flow,
-- systems architecture,
-- UX systems,
-- realtime infrastructure,
-- and long-term maintainability.
+* AI Workflow Systems
+* Realtime Infrastructure
+* Execution Intelligence
+* Motion-heavy Frontends
+* Product System Design
+* Backend Architecture
+* Operational Analytics
+* Adaptive Planning Systems
 
 ---
 
-## Current Direction
+┌──────────────────────────────┐
+│        CURRENT FOCUS         │
+└──────────────────────────────┘
 
-My work is increasingly focused on:
-- execution operating systems,
-- intelligent planning systems,
-- realtime infrastructure,
-- immersive digital experiences,
-- and scalable product ecosystems.
+Designing systems that:
 
-The goal is not simply building apps.
+* reduce execution friction,
+* evolve through context,
+* and scale operational intelligence.
 
-The goal is building systems people operate inside.
+Interested in:
+
+* intelligent product systems
+* adaptive workflows
+* immersive interfaces
+* realtime architectures
+* execution-focused tooling
 
 ---
 
-## Links
+┌──────────────────────────────┐
+│            LINKS             │
+└──────────────────────────────┘
 
-Portfolio:
-[ Add Portfolio Link ]
+PORTFOLIO
+[ add portfolio link ]
 
-GitHub:
+GITHUB
 https://github.com/AnshGupta-77
 
-LinkedIn:
-[ Add LinkedIn ]
+LINKEDIN
+[ add linkedin ]
 
-Resume:
-[ Add Resume PDF ]
-
----
-
-## Current Status
-
-Most active projects are currently in:
-- active development,
-- alpha,
-- or pre-launch phases.
-
-Focus areas right now:
-- AI-assisted execution systems
-- realtime architecture
-- product intelligence
-- infrastructure scalability
-- immersive frontend systems
-
----
-
-## Contact
-
-For collaborations, product discussions, or technical conversations:
-
-- GitHub Issues / Discussions
-- LinkedIn
-- Email
-
----
+```
+```
